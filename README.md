@@ -1,1 +1,1 @@
-# Kaggle-couses
+# Kaggle-courses
